@@ -3,15 +3,11 @@ package anhtester.com.common;
 import anhtester.com.driver.AppiumManager;
 import anhtester.com.driver.DriverManager;
 import anhtester.com.listeners.TestListener;
-import anhtester.com.projects.website.crm.pages.CommonPage;
+import ecommerce.com.projects.mobile.pages.CommonPage;
 import io.appium.java_client.android.AndroidDriver;
-import io.appium.java_client.android.options.UiAutomator2Options;
-import io.appium.java_client.service.local.AppiumDriverLocalService;
-import io.appium.java_client.service.local.AppiumServiceBuilder;
 import org.testng.annotations.*;
 
 import java.net.MalformedURLException;
-import java.net.URL;
 
 @Listeners({TestListener.class})
 public class BaseTestMobile extends CommonPage {

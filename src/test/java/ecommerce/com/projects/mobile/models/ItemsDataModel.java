@@ -1,4 +1,4 @@
-package anhtester.com.projects.website.crm.models;
+package ecommerce.com.projects.mobile.models;
 
 import lombok.Data;
 

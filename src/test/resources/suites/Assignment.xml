@@ -9,7 +9,7 @@
     <test name="Sign In Test">
         <parameter name="BROWSER" value="chrome"/>
         <classes>
-            <class name="anhtester.com.projects.website.crm.testcases.ECommerceAppTest">
+            <class name="ecommerce.com.projects.mobile.testcases.ECommerceAppTest">
 <!--                <methods>-->
 <!--                    <include name="testLoginCrmPerfex"/>-->
 <!--                </methods>-->

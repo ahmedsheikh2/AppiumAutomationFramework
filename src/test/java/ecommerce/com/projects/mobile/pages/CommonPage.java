@@ -1,4 +1,4 @@
-package anhtester.com.projects.website.crm.pages;
+package ecommerce.com.projects.mobile.pages;
 
 public class CommonPage {
 

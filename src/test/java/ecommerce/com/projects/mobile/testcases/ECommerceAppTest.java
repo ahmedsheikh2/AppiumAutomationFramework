@@ -1,11 +1,11 @@
-package anhtester.com.projects.website.crm.testcases;
+package ecommerce.com.projects.mobile.testcases;
 
 import anhtester.com.common.BaseTestMobile;
 import anhtester.com.dataprovider.DataProviderManager;
-import anhtester.com.projects.website.crm.models.ItemsDataModel;
-import anhtester.com.projects.website.crm.pages.CartPage;
-import anhtester.com.projects.website.crm.pages.HomePage;
-import anhtester.com.projects.website.crm.pages.ProductsPage;
+import ecommerce.com.projects.mobile.models.ItemsDataModel;
+import ecommerce.com.projects.mobile.pages.CartPage;
+import ecommerce.com.projects.mobile.pages.HomePage;
+import ecommerce.com.projects.mobile.pages.ProductsPage;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import org.testng.annotations.Test;
