@@ -65,3 +65,5 @@ git clone https://github.com/ahmedsheikh2/AppiumAutomationFramework.git
 
 - Test Case 1: Verify that Error message appears when Name field is empty and user click on Let's Shop button
 - Test Case 2: Verify that user is able to select items, Add to Cart and verify that Item is added to the Cart
+
+*Note:* Test Case 2 pick up rows from the excel sheet and iterates over it. Here i've used `DataProvider` to iterate the test over data
