@@ -21,7 +21,6 @@ public class ECommerceAppTest extends BaseTestMobile {
         homePage = new HomePage();
         cartPage = new CartPage();
         productsPage = new ProductsPage();
-
     }
 
     @Test(priority = 1, description = "TC01_VerifyErrorMsgForMissingNameField")
